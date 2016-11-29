@@ -1,0 +1,271 @@
+
+@import url("");
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.container h2{
+    margin-left: 35%;
+}
+.searchForm {
+    margin: auto;
+    margin-top: 20px;
+    width: 70%;
+}
+.form-group {
+}
+
+.form {
+    margin-left: 30px;
+}
+
+.form-row {
+    margin-top: 30px;
+}
+
+.error {
+    width: 60%;
+    margin: auto;
+    margin-top: 20px;
+}
+.searchForm h2{
+font-family: 'Delius Unicase', cursive;
+color:white;
+}
+.container h3{
+    margin-left: 20%;
+    margin-right: 25%;
+}
+.searchForm {
+ background-color: black;
+ margin-top:70px;
+}
+.resulttab{
+    height: 300px;
+    width: 100%;
+    background-color:black;
+}
+.col-md-6 h4{
+    color:#00e6e6;
+}
+.resulttab img{
+    height: 250px;
+}
+.navbar {
+    background-color: black;
+    height: 60px;
+    margin-bottom: -10px;
+}
+.heading{
+    height: 50px;
+    font-family: 'Lobster', cursive;
+    margin-top: 8px;
+    color:#00e6e6;
+    padding-right: 10px;
+}
+.nav li a{
+      
+      color:#00e6e6;
+      padding-top: 20px; 
+
+     }
+     .heads a{
+      color:#00e6e6;
+     }
+.error{
+margin-top: 80px;
+}
+.paginationjs{
+    margin-left: 45%;
+}
+
+footer ul{
+list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    overflow:hidden;
+}
+
+footer li{
+    margin: 0 0 20px 0;
+    color : black;
+}
+footer li a{
+  color:white;
+}
+.footer {
+    height: 380px;
+    width: 100%;
+  background-color: black;
+  margin-top: 20px;
+}
+
+footer h1 {
+    color:#00e6e6;
+    font-size: 20px;
+    margin-bottom: 30px;
+}
+
+footer h1 {
+    margin-top: 20px;
+        font-family: "Comic Sans MS", cursive, sans-serif;
+    letter-spacing: 2px;
+}
+footer h2{
+ margin-top: 20px;
+        font-family: "Comic Sans MS", cursive, sans-serif;
+   
+    color:#00e6e6;
+    text-align: center;
+    margin-right: 60px
+}
+
+.help{
+    margin-left: 20px;
+}
+.company{
+    margin-left: 20px;
+}
+.map{
+  padding:20px 20px 0px 20px;
+   }
+.map img{
+  width:300px;
+  height:20px !important;
+}
+.follow {
+  color:#00e6e6;
+  text-align: center;
+  font-family: 'Permanent Marker', cursive;
+
+}
+.brandlink{
+  padding:0px 350px;
+  color:white;
+  font-size: 20px;
+}
+#links i{
+  cursor: pointer;
+}
+#featuresHeading h2{
+  margin-top: 40px;
+  font-family: 'Abril Fatface', cursive;
+  color: #3333ff;
+}
+  .navbar{
+      background-color:black;
+      margin-bottom: 0px;
+   }
+   #myCarousel{
+    margin-top: 0px;
+   }
+    
+    .carousel-inner > .item > img,
+    .carousel-inner > .item > a > img {
+      width: 100%;
+      height:635px;
+      margin-top: -30px;
+         }
+     .nav li a{
+      
+      color:#00e6e6;
+
+     }
+     .heads a{
+      color:#00e6e6;
+     }
+
+    .drop {
+      background-color: #00e6e6;
+    }
+    .icon-bar{
+      background-color: black;
+    }
+    .carousel-caption h3 {
+      color:white;
+    }
+        .carousel-caption p {
+      color:white;
+    }
+
+/* --------------------------------------
+   Global Styles
+   -------------------------------------- */
+body{
+  background-color: white;
+}
+
+.images img{
+  padding-top: 30px;
+}
+p{
+  color:black;
+
+}
+h3{
+ color:black; 
+ text-align: center;
+ font-family: 'Righteous', cursive;
+}
+.alert{
+  margin-top: 20px;
+  width: 100%;
+}
+.well{
+  margin: 20px 0;
+  width:100%;
+}
+.panel img{
+  width: 300px;
+  height:250px;
+}
+.yay{
+  font-size: 28px;
+  background-color:#6666ff;
+  border-radius: 6px;
+  height: 50px;
+  padding: 10px;
+  color: white;
+  font-family: 'Chewy', cursive;
+  letter-spacing: 3px;
+
+}
+body{
+  background-color: white;
+}
+#tab1 img{
+  height: 200px;
+  width: 100%;
+}
+.betting{
+  text-align: center;
+}
+.panel-title{
+  font-family: 'Righteous', cursive;
+  color: #3333ff;
+}
+.panel-footer a{
+font-family:'Ravi Prakash', cursive;
+letter-spacing: 2px;
+font-size : 25px;
+color: black;
+}
+.imdb{
+    background-color: #00e6e6;
+}
+
+/* --------------------------------------
+   Navbar
+   -------------------------------------- */
+   .navbar{
+      width:100%;
+   }
+   .navbar-brand img{
+      height:30px;
+       
+   }
+.navy{
+    margin-bottom: 0px;
+}
